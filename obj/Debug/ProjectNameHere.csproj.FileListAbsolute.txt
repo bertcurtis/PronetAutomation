@@ -1,0 +1,5 @@
+/Users/bertcurtis/Chatomation/Chatomation/obj/Debug/ProjectNameHere.csprojAssemblyReference.cache
+/Users/bertcurtis/Chatomation/Chatomation/obj/Debug/Chatomation.dll.config
+/Users/bertcurtis/Chatomation/Chatomation/obj/Debug/ProjectNameHere.csproj.CoreCompileInputs.cache
+/Users/bertcurtis/Chatomation/Chatomation/obj/Debug/Chatomation.dll
+/Users/bertcurtis/Chatomation/Chatomation/obj/Debug/Chatomation.pdb
